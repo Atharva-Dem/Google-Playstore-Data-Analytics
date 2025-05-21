@@ -2,4 +2,4 @@
 Null Class Project
 
 Training Dashboard
-file:///C:/Users/Atharva/Downloads/Google-Play-Store-Analytics-main/Google-Play-Store-Analytics-main/dashboard.html
+ https://googleplay-dashboard.netlify.app/
